@@ -8,6 +8,6 @@ class Landing extends CI_Controller {
 	{
 		$this->load->view('head');
 		$this->load->view('wrapper');
-		//$this->load->view('');
+		$this->load->view('floor');
 	}
 }
