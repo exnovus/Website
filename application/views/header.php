@@ -72,9 +72,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									</svg>
 								</a>
 
-								<nav>
+								<!--<nav>
 									<ul>
 										<li><a href="#menu">Menu</a></li>
 									</ul>
-								</nav>
+								</nav>-->
+
 							</header>

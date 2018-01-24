@@ -5,18 +5,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<!-- Banner -->
 								<section id="banner">
 									<div class="items">
-										<section class="accent2">
+										<section class="accent3">
 											<h1>¿Primera vez por aquí?</h1>
 											<p>Toma un tour por nuestro website y conoce mas acerca de nosotros.</p>
 											<ul class="actions">
 												<li><a href="#about" class="button special">Sobre Nosotros</a></li>
 											</ul>
 										</section>
-										<section class="accent3">
-											<h1>Bienvenido de nuevo</h1>
-											<p>Fusce lancinia ipsum feugiat dolor sed matis tempus sed nullam</p>
+										<section class="accent2">
+											<i class="fa fa-telegram fa-3x"></i><br /><br />
+											<h1>Haz parte de nuestra comunidad</h1>
+											<p></p>
 											<ul class="actions">
-												<li><a href="#" class="button special">More</a></li>
+												<li><a href="http://www.telegram.me/rootdevel" target="_blank" class="button special icon fa-telegram">Grupo en Telegram</a></li>
 											</ul>
 										</section>
 									</div>

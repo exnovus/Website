@@ -10,7 +10,7 @@ var settings = {
 
 		// Transition speed (in ms)
 		// For timing purposes only. It *must* match the transition speed of ".slider > article".
-			speed: 10000,
+			speed: 100000,
 
 		// Transition delay (in ms)
 			delay: 2000
@@ -21,7 +21,7 @@ var settings = {
 
 		// Transition speed (in ms)
 		// For timing purposes only. It *must* match the transition speed of ".carousel > article".
-			speed: 1000000
+			speed: 1000
 
 	}
 

@@ -31,6 +31,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<div class="wrapper">
 								<div class="inner">
 
+									<?php $this->load->view('contact');?>
 									<?php $this->load->view('footer');?>
 
 								</div>

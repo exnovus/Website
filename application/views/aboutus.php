@@ -3,22 +3,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <!-- Section -->
 								<section class="main">
-									<a name="about">
+									<a name="about"></a>
 									<div class="features">
 										<section>
 											<span class="icon fa-camera major accent2"></span>
 											<h3>Quienes Somos</h3>
-											<p>...Un grupo interdisciplinar de personas que dedican sus esfuerzos a compartir conocimiento libre en las diferentes áreas del saber...</p>
+											<p>...Un grupo interdisciplinar de personas que dedican sus esfuerzos a compartir conocimiento libre en las diferentes áreas del saber... <span class="">ver mas</span></p>
 										</section>
 										<section>
 											<span class="icon fa-paper-plane major accent3"></span>
 											<h3>Que hacemos</h3>
-											<p>Como organización sin ánimo de lucro [...] concentramos recursos y conocimiento para promover, integrar y desarrollar proyectos...</p>
+											<p>Como organización sin ánimo de lucro [...] concentramos recursos y conocimiento para promover, integrar y desarrollar proyectos...<span class="">ver mas</span></p>
 										</section>
 										<section>
 											<span class="icon fa-envelope major accent4"></span>
 											<h3>Lo que hacemos por ti</h3>
-											<p>Hacer que nuestro Hackerspace sea un lugar propicio para que puedas compartir, generar conocimiento...</p>
+											<p>Hacer que nuestro Hackerspace sea un lugar propicio para que puedas compartir, generar conocimiento...<span class="">ver mas</span></p>
 										</section>
 									</div>
 								</section>
