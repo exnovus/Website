@@ -57,7 +57,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 					<div class="row">
 						<div class="6u 12u$(small)">
-							<img src="" class =""> fff
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/what.svg" alt="" class="" />
+							</span>
 						</div>
 						<div class="6u$ 12u$(small)">
 							<h3>Que Hacemos</h3>
@@ -77,13 +79,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							</ul>
 						</div>
 						<div class="6u$ 12u$(small)">
-							<img src="<?= base_url() ?>application/media/images/pi01.jpg" alt="" class="" />
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/how.svg" alt="" class="" />
+							</span>
 						</div>
 					</div>
 
 					<div class="row">
 						<div class="6u 12u$(small)">
-							<img src="" class =""> fff
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/search.svg" alt="" class="" />
+							</span>
 						</div>
 						<div class="6u$ 12u$(small)">
 							<h3>Que Buscamos</h3>
@@ -105,7 +111,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 					<div class="row">
 						<div class="6u 12u$(small)">
-							<img src="" class =""> fff
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/etimology.svg" alt="" class="" />
+							</span>
 						</div>
 						<div class="6u$ 12u$(small)">
 							<h3>Etimologia</h3>
