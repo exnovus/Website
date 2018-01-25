@@ -25,13 +25,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<p>Interrelacionar a personas que compartan intereses en ciencias, nuevas tecnologías y artes digitales o electrónicas, para generar conocimiento libre y democratizar el existente; mediante el desarrollo de proyectos y actividades fundamentadas en el concepto de Do It Yourself (D.I.Y) "Hazlo tú mismo" y aprendizaje colaborativo.</p>
 						</div>
 						<div class="6u$ 12u$(small)">
-							<img src="" class ="">
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/mision.svg" alt="" class="" />
+							</span>
 						</div>
 					</div>
 
 					<div class="row">
 						<div class="6u 12u$(small)">
-							<img src="" class =""> fff
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/vision.svg" alt="" class="" />
+							</span>
 						</div>
 						<div class="6u$ 12u$(small)">
 							<h3>Visión</h3>
@@ -45,7 +49,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<p>Rootdevel Hackerspace es una entidad sin animo de lucro, fundada en el año 2013 en la cuidad de Sogamoso, integrada por un grupo interdisciplinar de personas que dedican sus esfuerzos a compartir conocimiento libre en las diferentes áreas del saber. Cuyas acciones se fundamentan en la amistad, pasión, amor, persistencia, lealtad, honestidad y servicio a la comunidad, logrando que la curiosidad por la investigación deje volar la imaginación, para  hacer realidad las ideas.</p>
 						</div>
 						<div class="6u$ 12u$(small)">
-							<img src="" class ="">
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/who.svg" alt="" class="" />
+							</span>
 						</div>
 					</div>
 
@@ -71,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							</ul>
 						</div>
 						<div class="6u$ 12u$(small)">
-							<img src="<?= base_url() ?>application/media/images/pic01.jpg" alt="" class="" />
+							<img src="<?= base_url() ?>application/media/images/pi01.jpg" alt="" class="" />
 						</div>
 					</div>
 
@@ -91,7 +97,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<p>Hacer que nuestro Hackerspace sea un lugar propicio para que puedas compartir, generar conocimiento, desarrollar proyectos y actividades con la comunidad; todo esto en un entorno de fraternidad.</p>
 						</div>
 						<div class="6u$ 12u$(small)">
-							<img src="" class ="">
+							<span class="image fit vector">
+								<img src="<?= base_url() ?>application/media/images/foryou.svg" alt="" class="" />
+							</span>
 						</div>
 					</div>
 
