@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<a href="index.html" class="logo">
 
 									<!-- SVG code Logo-->
-									<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+									<!--<?xml version="1.0" encoding="UTF-8" standalone="no"?>-->
 									<svg
 										 xmlns:dc="http://purl.org/dc/elements/1.1/"
 										 xmlns:cc="http://creativecommons.org/ns#"

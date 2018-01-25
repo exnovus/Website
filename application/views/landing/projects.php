@@ -15,14 +15,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											</div>
 										</article>
 										<article>
-											<div class="image"><img src="<?= base_url() ?>application/media/images/pic05.jpg" alt="" data-position="center" /></div>
+											<div class="image"><img src="<?= base_url() ?>application/media/images/sfd2012.jpg" alt="" data-position="center" /></div>
 											<div class="content">
 												<h3>Consequat ipsum</h3>
 												<p>Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius accumsan.</p>
 											</div>
 										</article>
 										<article>
-											<div class="image"><img src="<?= base_url() ?>application/media/images/pic06.jpg" alt="" data-position="center" /></div>
+											<div class="image"><img src="<?= base_url() ?>application/media/images/flisol.png" alt="" data-position="center" /></div>
 											<div class="content">
 												<h3>Magna tempus</h3>
 												<p>Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan lorem ipsum dolor sit amet nullam aliquam.</p>

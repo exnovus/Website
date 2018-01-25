@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							</ul>
 						</div>
 						<div class="6u$ 12u$(small)">
-							<img src="" class ="">
+							<img src="<?= base_url() ?>application/media/images/pic01.jpg" alt="" class="" />
 						</div>
 					</div>
 
