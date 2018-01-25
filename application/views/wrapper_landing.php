@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 							<?php $this->load->view('header');?>
 							<?php $this->load->view('nav');?>
-							<?php $this->load->view('banner');?>
+							<?php $this->load->view('landing/banner');?>
 
 						</div>
 					</div>
@@ -21,8 +21,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="wrapper">
 							<div class="inner">
 
-								<?php $this->load->view('aboutus');?>
-								<?php $this->load->view('projects');?>
+								<?php $this->load->view('landing/aboutus');?>
+								<?php $this->load->view('landing/projects');?>
 
 							</div>
 						</div>
@@ -31,7 +31,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<div class="wrapper">
 								<div class="inner">
 
-									<?php $this->load->view('contact');?>
+									<?php $this->load->view('landing/contact');?>
 									<?php $this->load->view('footer');?>
 
 								</div>

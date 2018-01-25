@@ -20,7 +20,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<div class="wrapper">
 							<div class="inner">
 
-								<?php $this->load->view('institucional');?>
+								<?php $this->load->view('about/institutional');?>
 
 							</div>
 						</div>
