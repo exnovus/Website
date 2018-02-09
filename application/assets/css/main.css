@@ -1609,21 +1609,13 @@ button,
 form {
   margin: 0 0 2em 0; }
   form.combined {
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
-    display: flex;
-    -moz-flex-direction: row;
-    -webkit-flex-direction: row;
-    -ms-flex-direction: row;
-    flex-direction: row;
     margin-left: auto;
     margin-right: auto;
     max-width: 100%;
     position: relative;
-    width: 35em; }
+    width: 55em; }
     form.combined input[type="text"],
-    form.combined input[type="password"],
+    form.combined input[type="name"],
     form.combined input[type="email"],
     form.combined select,
     form.combined textarea {
@@ -1635,10 +1627,12 @@ form {
       -webkit-flex-shrink: 1;
       -ms-flex-shrink: 1;
       flex-shrink: 1;
-      border-bottom-left-radius: 2.75em;
-      border-bottom-right-radius: 0;
-      border-top-left-radius: 2.75em;
-      border-top-right-radius: 0; }
+      border-radius: 0.6875em;
+      color: #454545 !important;
+      outline: 0;
+      margin: 0.5em;
+      padding: 0.5em;
+      text-decoration: none; }
     form.combined input[type="submit"] {
       -moz-flex-grow: 0;
       -webkit-flex-grow: 0;
@@ -1648,8 +1642,7 @@ form {
       -webkit-flex-shrink: 0;
       -ms-flex-shrink: 0;
       flex-shrink: 0;
-      border-top-left-radius: 0;
-      border-bottom-left-radius: 0; }
+      margin: 1em 0 0 1em; }
   @media screen and (max-width: 480px) {
     form.combined {
       -moz-flex-direction: column;

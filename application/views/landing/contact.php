@@ -9,18 +9,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 									<p></p>
 								</header>
 								<form method="post" action="#" class="combined">
-									<input type="name" name="name" id="name" placeholder="Nombre" class="invert" />
-									<!-- Break --
-									<div class="12u$">
-										<textarea name="demo-message" id="demo-message" placeholder="Enter your message" rows="6"></textarea>
-									</div>
-									<!-- Break --
-									<div class="12u$">
-										<ul class="actions">
-											<li><input type="submit" value="Send Message" class="special" /></li>
-											<li><input type="reset" value="Reset" /></li>
-										</ul>
-									</div>-->
-									<input type="submit" class="special" value="Send" />
+									<input type="name" name="name" id="name" placeholder="Nombre o alias" class="invert" />
+									<input type="email" name="email" id="email" placeholder="Correo Electronico" class="invert" />
+									<textarea name="demo-message" id="demo-message" placeholder="Dejanos tu Mensaje" rows="6" class="invert"></textarea>
+									<input type="submit" value="Enviar Mensaje" class="special" />
 								</form>
 							</section>
