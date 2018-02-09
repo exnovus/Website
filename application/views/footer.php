@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 												<div>
 													<h3>Fundación</h3>
 													<ul class="plain">
-														<li><a href="#">Acerca de Rootdevel</a></li>
+														<li><a href="<?= base_url() ?>about">Acerca de Rootdevel</a></li>
 														<li><a href="#">Planes y Procesos</a></li>
 														<li><a href="#">Información Legal</a></li>
 														<li><a href="#">Uso de Marca</a></li>

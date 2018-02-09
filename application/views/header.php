@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
 <!-- Header -->
 							<header id="header">
-								<a href="index.html" class="logo">
+								<a href="<?= base_url() ?>" class="logo">
 
 									<!-- SVG code Logo-->
 									<!--<?xml version="1.0" encoding="UTF-8" standalone="no"?>-->

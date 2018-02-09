@@ -31,7 +31,7 @@
 			'background-color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
+		border-bottom: none;// to underlined a change none to "1px dotted" for example
 		text-decoration: none;
 
 		&:hover {
@@ -54,7 +54,6 @@
 	h1, h2, h3, h4, h5, h6 {
 		line-height: 1.5;
 		letter-spacing: _font(letter-spacing-heading);
-		text-transform: uppercase;
 
 		a {
 			color: inherit;
