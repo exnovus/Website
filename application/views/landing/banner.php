@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											<h1>Haz parte de nuestra comunidad</h1>
 											<p></p>
 											<ul class="actions">
-												<li><a href="http://www.telegram.me/rootdevel" target="_blank" class="button special icon fa-telegram">Grupo en Telegram</a></li>
+												<li><a href="http://t.me/rootdevel" target="_blank" class="button special icon fa-telegram">Grupo en Telegram</a></li>
 											</ul>
 										</section>
 									</div>
@@ -30,6 +30,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										</article>
 										<article>
 											<img src="<?= base_url() ?>application/media/images/pic03.jpg" alt="" data-position="bottom right" />
+										</article>
+										<article>
+											<img src="<?= base_url() ?>application/media/images/pic04.jpg" alt="" data-position="bottom right" />
+										</article>
+										<article>
+											<img src="<?= base_url() ?>application/media/images/pic05.jpg" alt="" data-position="bottom right" />
+										</article>
+										<article>
+											<img src="<?= base_url() ?>application/media/images/pic06.jpg" alt="" data-position="bottom right" />
+										</article>
+										<article>
+											<img src="<?= base_url() ?>application/media/images/pic07.jpg" alt="" data-position="bottom right" />
 										</article>
 									</div>
 								</section>

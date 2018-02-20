@@ -11,21 +11,21 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											<div class="image"><img src="<?= base_url() ?>application/media/images/CNC-Animation.gif" alt="" data-position="center" /></div>
 											<div class="content">
 												<h3>Protitopo digital de una CNC (Control Numérico Computarizado).</h3>
-												<p>Adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat.</p>
+												<p>Estos sistemas de control computerizado han permitido disminuir los tiempos de producción, y sobretodo hacer accesible el uso de estas herramientas sin la necesidad de acumular años de experiencia en su manejo.</p>
 											</div>
 										</article>
 										<article>
 											<div class="image"><img src="<?= base_url() ?>application/media/images/sfd2012.jpg" alt="" data-position="center" /></div>
 											<div class="content">
-												<h3>Consequat ipsum</h3>
-												<p>Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius accumsan.</p>
+												<h3>Software Freedom Day</h3>
+												<p>"El software freedom day es un evento educativo que está orientado a trabajar con tecnologías libres y software libre, lo cual no implica licencias cerradas o derechos de autor..."</p>
 											</div>
 										</article>
 										<article>
 											<div class="image"><img src="<?= base_url() ?>application/media/images/flisol.png" alt="" data-position="center" /></div>
 											<div class="content">
-												<h3>Magna tempus</h3>
-												<p>Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan lorem ipsum dolor sit amet nullam aliquam.</p>
+												<h3>Festival Latinoamericano de Instalación de Software Libre</h3>
+												<p>El FLISoL es el evento de difusión de Software Libre más grande en Latinoamérica y está dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y aun personas que no poseen mucho conocimiento informático.</p>
 											</div>
 										</article>
 										<nav>

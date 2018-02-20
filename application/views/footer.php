@@ -4,20 +4,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 										<footer id="footer">
 											<section class="links">
 												<div>
-													<h3>Novedades</h3>
+													<h3>+ Información</h3>
 													<ul class="plain">
-														<li><a href="#">Aliquam tempus</a></li>
-														<li><a href="#">Ultrecies nul</a></li>
-														<li><a href="#">Gravida ultricies</a></li>
-														<li><a href="#">Commodo etiam</a></li>
+														<li><a href="#">Glosario</a></li>														
+														<li><a href="#">Términos y politicas de privacidad</a></li>
 													</ul>
 												</div>
 												<div>
-													<h3>Servicios</h3>
+													<h3>Blog</h3>
 													<ul class="plain">
-														<li><a href="#">Donecnec etiam</a></li>
-														<li><a href="#">Aapibus sedun</a></li>
-														<li><a href="#">Namnulla tempus</a></li>
+														<li><a href="#">Proyectos</a></li>
+														<li><a href="#">Eventos</a></li>
+														<li><a href="#">Noticias</a></li>
 													</ul>
 												</div>
 												<div>
@@ -27,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 														<li><a href="#">Planes y Procesos</a></li>
 														<li><a href="#">Información Legal</a></li>
 														<li><a href="#">Uso de Marca</a></li>
+														<li><a href="#">Donaciones</a></li>
 													</ul>
 												</div>
 												<div>
@@ -42,7 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 											<ul class="icons">
 												<li><a target="_blank" href="http://www.facebook.com/rootdevel" class="icon fa-facebook fa-lg"><span class="label">Facebook</span></a></li>
 												<li><a target="_blank" href="http://twitter.com/rootdevel" class="icon fa-twitter fa-lg"><span class="label">Twitter</span></a></li>
-												<li><a target="_blank" href="http://www.telegram.com/rootdevel" class="icon fa-telegram fa-lg"><span class="label">Telegram</span></a></li>
+												<li><a target="_blank" href="http://t.me/rootdevel" class="icon fa-telegram fa-lg"><span class="label">Telegram</span></a></li>
 												<li><a target="_blank" href="https://www.flickr.com/photos/rootdevel_hackerspace/" class="icon fa-flickr fa-lg"><span class="label">Instagram</span></a></li>
 												<li><a target="_blank" href="http://github.com/rootdevel" class="icon fa-github fa-lg"><span class="label">GitHub</span></a></li>
 												<li><a target="_blank" href="http://www.meetup.com/rootdevel" class="icon fa-meetup fa-lg"><span class="label">Soundcloud</span></a></li>
